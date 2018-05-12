@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6195'
     url: http://www.gutenberg.org/2009/agents/6195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15683#The-High-School-FailuresCommercial-High-School-Subjects
 gutenberg_issued: '2005-04-22'
 gutenberg_type: Text
 identifiers:
