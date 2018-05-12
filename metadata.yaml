@@ -1,0 +1,31 @@
+_repo: The-High-School-FailuresCommercial-High-School-Subjects_15683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: OBrien, Francis Paul
+    birthdate: 1885
+    gutenberg_agent_id: '6195'
+    url: http://www.gutenberg.org/2009/agents/6195
+description: ''
+gutenberg_issued: '2005-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Academic achievement'
+- !lcsh 'High school dropouts'
+- !lcsh 'Underachievers'
+- !lcc 'LB'
+title: 'The High School Failures
+
+  A Study of the School Records of Pupils Failing in Academic or
+
+  Commercial High School Subjects'
+url: http://www.gutenberg.org/ebooks/15683
